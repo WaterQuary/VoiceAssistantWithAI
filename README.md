@@ -1,4 +1,4 @@
-# VoiceAssistantWithAI v1.0
+# VoiceAssistantWithAI v1.0 |16.05.2026|
 It's just Voice Assistant with AI for basic usings.
 
 Its functionality:

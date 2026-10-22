@@ -1,4 +1,7 @@
 # VoiceAssistantWithAI v1.0 |16.05.2026|
+<a href="https://pin.it/1C30o0N3W" target="_blank">
+  <img src="https://pinimg.com" alt="Жесткое фото" width="600">
+</a>
 It's just Voice Assistant with AI for basic usings.
 
 Its functionality:

@@ -14,7 +14,7 @@ Its functionality:
 7. Show your date now
 
 <p align="center">
-  <img src="photo.jpg" alt="Zhestkoe_photo" width="600">
+  <img src="photo.jpg" alt="Zhestkoe_photo" width="900">
 </p>
 
 This version has many bugs, shortcomings etc. Its will be fixed later.

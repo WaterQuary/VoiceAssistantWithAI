@@ -2,6 +2,7 @@
 <p align="center">
   <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="600">
 </p>
+<hr>
 It's just Voice Assistant with AI for basic usings.
 
 Its functionality:
@@ -12,9 +13,9 @@ Its functionality:
 5. Show your time now
 6. Use AI to answer your question
 7. Show your date now
-
+<hr>
 <p align="center">
   <img src="photo.jpg" alt="Zhestkoe_photo" width="900">
 </p>
-
+<hr>
 This version has many bugs, shortcomings etc. Its will be fixed later.

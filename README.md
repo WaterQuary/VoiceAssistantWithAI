@@ -3,6 +3,8 @@
   <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
   <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
   <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
+  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
+  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
 </div>
 <hr>
 It's just Voice Assistant with AI for basic usings.

@@ -1,13 +1,9 @@
 # VoiceAssistantWithAI v1.0 |16.05.2026|
-<p align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
-</p>
-<p align="right">
   <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
-</p>
-<p align="center">
   <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200">
-</p>
+</div>
 <hr>
 It's just Voice Assistant with AI for basic usings.
 

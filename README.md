@@ -1,10 +1,10 @@
 # VoiceAssistantWithAI v1.0 |16.05.2026|
 <p align="center">
-  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200" />
+  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="250" />
   &nbsp;&nbsp;&nbsp;
-  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200" />
+  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="250" />
   &nbsp;&nbsp;&nbsp;
-  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="200" />
+  <img src="anime_tyan.jpg" alt="Zhestkoe_photo" width="250" />
 </p>
 <hr>
 It's just Voice Assistant with AI for basic usings.
